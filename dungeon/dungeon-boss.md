@@ -1,23 +1,5 @@
 # 特殊玩法
 
-在地牢宝箱中可以开出地牢钥匙
-
-用于合成召唤 BOSS 的钥匙
-
-目前共有 2 个 BOSS 钥匙可合成召唤
-
-**合成需在远古祭坛进行**
-
-![](_image/dungeon/gdjt.png)
-
-**紫晶傀儡**
-
-![](_image/dungeon/zjkl.png)
-
-**Herobrine**
-
-![](_image/dungeon/herobrine.png)
-
 ## 召唤方法
 
 在合成完钥匙之后进入地牢
