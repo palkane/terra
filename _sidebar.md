@@ -18,4 +18,6 @@
 * 黏液科技
     * [介绍](slimefun/rule.md)
     * [那个科技](slimefun/thattechnology.md)
+* 酿酒
+    * [介绍](brewery/brewery.md)
     
