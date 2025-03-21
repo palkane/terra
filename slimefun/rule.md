@@ -16,7 +16,10 @@ https://slimefun-addons-wiki.guizhanss.net/fluffy-machines/
 https://github.com/GuizhanCraft/FastMachines/blob/master/README.zh_CN.md
 
 That科技 ( 自制 ):
-[点击跳转专栏](/Docsify-Sicilia/slimefun/thattechnology.md)
+[点击跳转专栏](/slimefun/thattechnology.md)
+
+职业合成表 ( 自制 ):
+[点击跳转专栏](/class/MMOWEAPON.md)
 
 ## ban位
 
