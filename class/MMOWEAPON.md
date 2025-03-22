@@ -27,7 +27,7 @@
 职业武器的合成是通过黏液科技进行的 [黏液科技指南](/slimefun/rule.md)
 在黏液科技中的扩展名称为 “ 职业相关 ”
 
-![](/class/_images/slimefun.png)
+![](_images/slimefun.png)
 
 ## 基础武器
 
@@ -36,7 +36,7 @@
 一般由原版的基础材料合成 (木头, 石头, 铁锭)
 此武器使用的技能伤害为基础技能 * 1 倍率
 
-![](/class/_images/level1.png)
+![](_images/level1.png)
 
 
 ## 科技路线
@@ -49,11 +49,11 @@
 
 此阶段的青铜锭指: **科林斯青铜锭**
 
-![](/class/_images/level2.png)
+![](_images/level2.png)
 
 法师武器为黏液科技魔法: **护身符或元素法杖**
 
-![](/class/_images/level2m.png)
+![](_images/level2m.png)
 
 武器使用的技能伤害为基础技能 * 1.5 倍率 (部分武器可能有细微差别)
 
@@ -63,11 +63,11 @@
 
 此阶段的强化合金锭指: **钢筋板**
 
-![](/class/_images/level3.png)
+![](_images/level3.png)
 
 法师武器为强化的科技魔法: **元素法杖雷和来世精华**
 
-![](/class/_images/level3m.png)
+![](_images/level3m.png)
 
 武器使用的技能伤害为基础技能 * 2.0 倍率 (部分武器可能有细微差别)
 
@@ -77,8 +77,8 @@
 
 此阶段的玄铁锭锭为自创
 
-![](/class/_images/xuantie.png)
+![](_images/xuantie.png)
 
-![](/class/_images/level4.png)
+![](_images/level4.png)
 
 武器使用的技能伤害为基础技能 * 3.0 倍率 (部分武器可能有细微差别)
