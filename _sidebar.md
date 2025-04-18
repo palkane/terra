@@ -20,4 +20,4 @@
     * [那个科技](slimefun/thattechnology.md)
 * 酿酒
     * [介绍](brewery/brewery.md)
-    
+    * [配方](brewery/recipe.md)
