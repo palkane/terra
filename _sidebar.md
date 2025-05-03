@@ -7,9 +7,9 @@
     * [数据类型与结构](config_development/defining_data_in_configs.md)
     * [配置系统](config_development/the_config_system.md)
     * [元配置](config_development/the_config_system.md)
-    * [从零开始创建资源包]
-    * [从零开始创建地形特征]
-    * [修改现有资源包]
+    * [从零开始创建资源包](config_development/the_config_system.md)
+    * [从零开始创建地形特征](config_development/create_a_pack_from_scratch.md)
+    * [修改现有资源包](config_development/creating_a_feature_from_scratch.md)
     * [噪声]
     * [图像配置]
     * [概述]
