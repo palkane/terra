@@ -10,7 +10,7 @@
     * [从零开始创建资源包](config_development/the_config_system.md)
     * [从零开始创建地形特征](config_development/create_a_pack_from_scratch.md)
     * [修改现有资源包](config_development/creating_a_feature_from_scratch.md)
-    * [噪声]
-        *[配置噪波采样器](noise\configuring_noise_samplers.md)
+* [噪声]
+    * [配置噪波采样器](noise\configuring_noise_samplers.md)
     * [图像配置]
     * [概述]
