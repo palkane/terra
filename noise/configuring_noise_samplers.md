@@ -24,7 +24,7 @@ salt: 2321  # 未指定时默认为0
 - 获取方式：[GitHub仓库](https://github.com/PolyhedralDev/NoiseTool/releases)
 - 注意：需从Terra安装目录复制`bootstrap`和`config-noise-function`插件到工具的`addons`文件夹
 
-![噪声工具界面](noise_picture/noise_tool.png)
+![噪声工具界面](_noise_picture/noise_tool.png)
 
 #### 核心参数详解
 **频率(Frequency)**
@@ -36,7 +36,7 @@ frequency: 0.05  # 值越大细节越密集
 对比示例：
 | 2倍频率 | 基准频率 | 0.5倍频率 |
 |---------|----------|-----------|
-| ![高频](noise_picture/opensimplex2_64x64_freq_double.png) | ![基准](noise_picture/opensimplex2_64x64_freq_half.png) | ![低频](noise_picture/opensimplex2_64x64.png) |
+| ![高频](_noise_picture/opensimplex2_64x64_freq_double.png) | ![基准](_noise_picture/opensimplex2_64x64_freq_half.png) | ![低频](_noise_picture/opensimplex2_64x64.png) |
 
 > 注意：频率调整主要适用于相干噪声（如Simplex），随机噪声修改频率等效于改变种子值
 
@@ -54,7 +54,7 @@ layers:
       frequency: 0.05
 ```
 
-![调色板效果](noise_picture/palette_example.png)
+![调色板效果](_noise_picture/palette_example.png)
 
 #### 高级技术
 **分形化(Fractalization)**
@@ -70,9 +70,9 @@ gain: 0.75    # 振幅衰减系数
 分形效果演进：
 | 无分形 | 2层 | 3层 | 4层 |
 |--------|-----|-----|-----|
-| ![1层](noise_picture/opensimplex2_1_octave.png) | ![2层](noise_picture/opensimplex2_2_octaves.png) | ![3层](noise_picture/opensimplex2_3_octaves.png) | ![4层](noise_picture/opensimplex2_4_octaves.png) |
+| ![1层](_noise_picture/opensimplex2_1_octave.png) | ![2层](_noise_picture/opensimplex2_2_octaves.png) | ![3层](_noise_picture/opensimplex2_3_octaves.png) | ![4层](_noise_picture/opensimplex2_4_octaves.png) |
 
-[**域扭曲(Domain Warping)**](noise_picture/overwarped.png)
+[**域扭曲(Domain Warping)**](_noise_picture/overwarped.png)
 用噪声扭曲原始噪声：
 ```yaml
 type: DOMAIN_WARP
@@ -86,7 +86,7 @@ warp:  # 扭曲源噪声
 效果演示：
 | 原始棋盘格 | 扭曲噪声源 | 扭曲效果 |
 |------------|------------|----------|
-| ![棋盘格](noise_picture/checkerboard.png) | ![Simplex](noise_picture/simplex_warp.png) | ![扭曲结果](noise_picture/checkerboard_warped.png) |
+| ![棋盘格](_noise_picture/checkerboard.png) | ![Simplex](_noise_picture/simplex_warp.png) | ![扭曲结果](_noise_picture/checkerboard_warped.png) |
 
 #### 复合采样器
 支持嵌套结构实现复杂效果：
