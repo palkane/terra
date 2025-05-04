@@ -72,7 +72,8 @@ gain: 0.75    # 振幅衰减系数
 |--------|-----|-----|-----|
 | ![1层](picture/opensimplex2_1_octave.png) | ![2层](picture/opensimplex2_2_octaves.png) | ![3层](picture/opensimplex2_3_octaves.png) | ![4层](picture/opensimplex2_4_octaves.png) |
 
-![**域扭曲(Domain Warping)**](picture/overwarped.png)
+**域扭曲(Domain Warping)**
+![](picture/overwarped.png)
 用噪声扭曲原始噪声：
 ```yaml
 type: DOMAIN_WARP
