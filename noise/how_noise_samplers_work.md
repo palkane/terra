@@ -23,9 +23,9 @@
 以下示例使用两个不同种子值，基于相同输入产生不同输出：
 
 种子=0的白噪声
-![](noise/picture/basic_example-01.png)
+![](picture/basic_example-01.png)
 种子=1的白噪声
-![](noise/picture/basic_example-02.png)
+![](picture/basic_example-02.png)
 
 你可能熟悉的种子值应用案例是《我的世界》世界种子。原版世界种子会被输入到控制地形生成的多个噪声算法中，每个种子生成截然不同的世界。
 --------------------------------
@@ -54,7 +54,7 @@
 
 进一步实验：使用64×64采样区域：
 
-![](noise/picture/whitenoise64x64.png)
+![](picture/whitenoise64x64.png)
 这本质上是用白噪声采样器生成随机图像。
 
 默认情况下，我们将以灰度图像形式可视化2D噪声，每个输出值代表一个灰度像素。
@@ -80,10 +80,10 @@
 
 随机噪声
 
-![](noise/picture/whitenoise64x64 (1).png)
+![](picture/whitenoise64x64 (1).png)
 相干噪声
 
-![](noise/picture/opensimplex2_64x64 (2).png)
+![](picture/opensimplex2_64x64 (2).png)
 可见相干噪声样本具有可辨识的平滑结构，而随机噪声样本无明显规律。上例使用的相干噪声算法称为"单纯形噪声"，是Terra提供的多种噪声类型之一。
 
 噪声变体
