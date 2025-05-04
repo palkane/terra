@@ -80,10 +80,10 @@
 
 随机噪声
 
-![](picture/whitenoise64x64 (1).png)
+![](picture/whitenoise64x64.png)
 相干噪声
 
-![](picture/opensimplex2_64x64 (2).png)
+![](picture/opensimplex2_64x64.png)
 可见相干噪声样本具有可辨识的平滑结构，而随机噪声样本无明显规律。上例使用的相干噪声算法称为"单纯形噪声"，是Terra提供的多种噪声类型之一。
 
 噪声变体

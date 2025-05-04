@@ -28,7 +28,7 @@ colors：
   - red
 ```
 实现原理：
-![原始噪声图](picture/opensimplex2_64x64 (1).png) → ![分段噪声图](picture/posterized_opensimplex2_64x64.png)
+![原始噪声图](picture/opensimplex2_64x64.png) → ![分段噪声图](picture/posterized_opensimplex2_64x64.png)
 通过设置多个阈值划分噪声值范围：
 - 小于-0.5 → 蓝色
 - [-0.5,0] → 绿色
