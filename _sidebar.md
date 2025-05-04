@@ -16,12 +16,12 @@
     * [概述](noise/how_noise_samplers_work.md)
 
 * [配置文件]  
-    * [BIOME（生物群系](configdocumentation\biome.md)
-    * [FEATURE（地物](configdocumentation\feature.md)
-    * [ORE（矿石](configdocumentation\ore.md)
-    * [PALETTE（调色板](configdocumentation\palette.md)
-    * [SCATTERED_ORE（分散矿石](configdocumentation\scattered_ore.md)
-    * [pack.yml（包配置文件](configdocumentation\pack.yml.md)
+    * [BIOME（生物群系](configdocumentation/biome.md)
+    * [FEATURE（地物](configdocumentation/feature.md)
+    * [ORE（矿石](configdocumentation/ore.md)
+    * [PALETTE（调色板](configdocumentation/palette.md)
+    * [SCATTERED_ORE（分散矿石](configdocumentation/scattered_ore.md)
+    * [pack.yml（包配置文件](configdocumentation/pack.yml.md)
 
 * [配置对象]  
     * [Float（浮点数]
