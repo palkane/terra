@@ -11,10 +11,19 @@
 
 
 效果演示：
+
+50%阈值分布
+
 ![图示1：50%阈值分布](picture/grass_64x64_50pcthreshold.png)
+
 通过这种方法实现了草丛的随机分布。
+
 ![](picture/grass.png)
-[图示2：阈值调整对比](picture/grass_64x64_25pcthreshold.png)
+
+阈值调整对比
+
+![图示2：阈值调整对比](picture/grass_64x64_25pcthreshold.png)
+
 - 当阈值降至-0.25时，草丛密度降低（排除了-0.25至0区间的值）
 - 提高阈值则会增加草丛密度
 
