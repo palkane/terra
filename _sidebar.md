@@ -12,5 +12,5 @@
     * [修改现有资源包](config_development/creating_a_feature_from_scratch.md)
 * [噪声]
     * [配置噪波采样器](noise/configuring_noise_samplers.md)
-    * [图像配置]
+    * [图像配置](noise/how_noise_distributes_things.md)
     * [概述]

@@ -7,14 +7,14 @@
 草丛分布示例
 假设我们需要在每块草方块上随机生成高草丛。若在所有草方块上都放置会显得不自然，这时二维白噪声采样器配合阈值法就派上用场。
 
-![](noise\picture\11104e51b4e0d06de8eedf971ddb5996.png)
+![](noise/picture/11104e51b4e0d06de8eedf971ddb5996.png)
 
 
 效果演示：
-![图示1：50%阈值分布](noise\picture\grass_64x64_50pcthreshold.png)
+![图示1：50%阈值分布](noise/picture/grass_64x64_50pcthreshold.png)
 通过这种方法实现了草丛的随机分布。
-![](noise\picture\grass.png)
-[图示2：阈值调整对比](noise\picture\grass_64x64_25pcthreshold.png)
+![](noise/picture/grass.png)
+[图示2：阈值调整对比](noise/picture/grass_64x64_25pcthreshold.png)
 - 当阈值降至-0.25时，草丛密度降低（排除了-0.25至0区间的值）
 - 提高阈值则会增加草丛密度
 
@@ -28,12 +28,12 @@ colors：
   - red
 ```
 实现原理：
-![原始噪声图](noise\picture\opensimplex2_64x64 (1).png) → ![分段噪声图](noise\picture\posterized_opensimplex2_64x64.png)
+![原始噪声图](noise/picture/opensimplex2_64x64 (1).png) → ![分段噪声图](noise/picture/posterized_opensimplex2_64x64.png)
 通过设置多个阈值划分噪声值范围：
 - 小于-0.5 → 蓝色
 - [-0.5,0] → 绿色
 - 以此类推
-![](noise\picture\basic_example-05.png)
+![](noise/picture/basic_example-05.png)
 权重列表
 通过重复列表项可增加其分布权重，例如：
 ```
