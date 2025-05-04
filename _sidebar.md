@@ -13,4 +13,4 @@
 * [噪声]
     * [配置噪波采样器](noise/configuring_noise_samplers.md)
     * [图像配置](noise/how_noise_distributes_things.md)
-    * [概述]
+    * [概述](noise/how_noise_samplers_work.md)
